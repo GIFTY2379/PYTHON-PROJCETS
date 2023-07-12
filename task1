@@ -1,0 +1,13 @@
+c = 1
+j = 6.1
+r = "razie"
+print(c, j, r)
+d = ["relindis", "richard", "clarence", "thelma", "samuel"]
+print(type(d))
+print(d[0])
+print(d[1])
+print(d[2])
+print(d[3])
+print(d[4])
+# print(d["3", "4"])
+print(d)
